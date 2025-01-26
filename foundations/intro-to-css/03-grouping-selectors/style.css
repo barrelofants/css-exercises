@@ -1,0 +1,11 @@
+.blk_bkg, .yel_bkg {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif"
+}
+.blk_bkg {
+    background-color: black;
+    color: white;
+}
+.yel_bkg {
+    background-color: yellow;
+}
